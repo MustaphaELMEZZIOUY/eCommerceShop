@@ -1,6 +1,6 @@
 # eCommerceShop
 
-A Fully Functional eShop Web App with a responsive design.
+A Fully Functional eShop Web App with a mobile responsive design.
 
 ## Stack
 
